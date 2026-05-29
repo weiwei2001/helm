@@ -1,6 +1,6 @@
 image:
   repository: "ghcr.io/weiwei2001/spring-petclinic"
-  tag: "4.0.2"
+  tag: "4.0.2-SNAPSHOT"
 
 replicas: 1
 
